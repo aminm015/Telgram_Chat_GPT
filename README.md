@@ -1,4 +1,4 @@
-Telegram_Chat_GPT 🤖
+Telegram_Chat_GPT (telegram chat bot) 🤖
 
 A simple Telegram bot that uses OpenAI's GPT model to chat and interact with users. This project allows you to create your own intelligent chatbot on Telegram using Python.
 
